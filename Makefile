@@ -1,4 +1,4 @@
-# Handy Makefile tocleanup and push changes out to MAT301 website 
+# Handy Makefile tocleanup and push changes out to website 
 
 default:
 	cp stat301.html index.html
